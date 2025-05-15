@@ -43,4 +43,4 @@ This project is a responsive Time Tracking Dashboard built as a frontend challen
 
 ## Author
 
-## Maxmillin
+## Francis Irungu
